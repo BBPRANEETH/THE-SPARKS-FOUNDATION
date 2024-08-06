@@ -1,0 +1,32 @@
+.navbar-nav{
+    font-family:'Oxygen',sans-serif;
+    text-decoration:rgb(199, 29, 29);
+    font-weight: bold;
+}
+  #nav-bar
+  {
+      background-color:#1b3cf4;
+      position:static;
+      top: 0%;
+      z-index:10;
+  }
+  .nav-link:hover {
+      background-image: url('c:\Users\PRANEETH\OneDrive\Pictures\501657.jpg');
+      background-color: #ff6219;
+  }
+  .nav-link {
+      font-family:'Oxygen',sans-serif;
+  }
+  a{
+      color:rgb(157, 134, 134);
+  }
+  head,body {
+    background-color: #fcfc12;
+  }
+.table-light {
+    color: #030202;
+    background-color: #a83d24;
+}
+.container {
+    color: #be3414;
+}
